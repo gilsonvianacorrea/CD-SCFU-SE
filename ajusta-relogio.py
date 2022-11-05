@@ -22,4 +22,4 @@ try:
   print("Horário após sincronizacao：%s" %str(time.localtime()))
   
 except:
-  print("Error syncing time")
+  print("Erro ao sincronizar o relogio")
