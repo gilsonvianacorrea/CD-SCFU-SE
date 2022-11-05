@@ -11,7 +11,7 @@ def connect_scfu():
     sta_if = network.WLAN(network.STA_IF)
     if not sta_if.isconnected():
         sta_if.active(True)
-        sta_if.connect('Lula_La', 'Marmelada')
+        sta_if.connect('SSID da Rede Wi-Fi', 'Password da Rede Wi-Fi')
         while not sta_if.isconnected():
             pass # wait till connection
     print('network config:', sta_if.ifconfig())
