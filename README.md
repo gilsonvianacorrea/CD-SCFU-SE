@@ -12,4 +12,7 @@ Alguns dos materiais utilizados na concepção dos códigos:
   * [ESP32 MicroPython: Encoding JSON](https://techtutorialsx.com/2017/05/27/esp32-micropython-encoding-json/)
   
   
+Cliente Web para Protocolo MQTT
+  * http://www.hivemq.com/demos/websocket-client/
+  * Tópico em uso: scfu/dados
   
