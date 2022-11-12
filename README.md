@@ -11,6 +11,8 @@ Alguns dos materiais utilizados na concepção dos códigos:
   * [Sistema Embarcado com ESP32 e MicroPython - Prof. Marcos Carnevali](https://www.youtube.com/playlist?list=PLCcdteC1rwSFvJnUoe0DfORHv4p_1EFps)
   * [Secrets of MicroPython: MQTT on ESP32](https://bhave.sh/micropython-mqtt/)
   * [ESP32 MicroPython: Encoding JSON](https://techtutorialsx.com/2017/05/27/esp32-micropython-encoding-json/)
+  * [Boot Scripts - boot.py e main.py](https://learn.adafruit.com/micropython-basics-load-files-and-run-code/boot-scripts)
+  * [Quick reference for the ESP32 - Site Micropython](https://docs.micropython.org/en/latest/esp32/quickref.html)
   
   
 Cliente Web para Protocolo MQTT
