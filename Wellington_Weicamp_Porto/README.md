@@ -1,4 +1,4 @@
-### Pesquisador Welligton Weikamp Porto ###
+### Mestrando Welligton Weikamp Porto ###
 
 
 Bem vindos ao meu diretório aonde serão registrados os códigos desenvolvidos para atendimento de demandas das disciplina de **Ciência de Dados na Internet das Coisas, Sistemas Embarcados e Sistemas Ciber Físicos e Ubíquos** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
