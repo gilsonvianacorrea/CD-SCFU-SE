@@ -2,6 +2,8 @@
 
 Este repositório registra os códigos desenvolvidos pela turma de **Sistemas Embarcados (SE) e Sistemas Ciber Físicos e Ubíquos (SCFU)** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
 
+As soluções são desenvolvidas em **Micropython** sobre a plataforma de hardware **ESP332**
+
 ### Softwares Exemplo ###
 
   * **[ajusta-relogio.py](https://github.com/adenauery/micropython/blob/main/ajusta-relogio.py)**: ajusta o relógio da ESP32 utilizando o NTP (Network Time Protocol)
