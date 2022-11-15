@@ -2,11 +2,13 @@
 
 Este repositório registra os códigos desenvolvidos pela turma de **Sistemas Embarcados (SE) e Sistemas Ciber Físicos e Ubíquos (SCFU)** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
 
+### Softwares Exemplo ###
+
   * **[ajusta-relogio.py](https://github.com/adenauery/micropython/blob/main/ajusta-relogio.py)**: ajusta o relógio da ESP32 utilizando o NTP (Network Time Protocol)
   * **[publica-sensores-sleep.py](https://github.com/adenauery/micropython/blob/main/publica-sensores-sleep.py)**: publica leituras feitas por sensores em JSON (DHT 22, no caso) utilizando o protocolo MQTT (biblioteca sem suporte a senha), com intervalo de publicação por sleep (sem agendamento). O programa tem impressões em vários pontos, as quais, quando em regime de produção, podem ser suprimidas.
   * **[instalar-mcron.py](https://github.com/adenauery/micropython/blob/main/instalar-mcron.py)**: instala a biblioteca mcron, utilizada para o agendamento de chamadas de procedimentos. Documentação disponível em: https://pypi.org/project/micropython-mcron/
 
-## Softwares Desenvolvidos Pela Turma:
+### Softwares Desenvolvidos Pela Turma: ###
 
 * [Wellington Weikamp Porto](https://github.com/adenauery/Micropython/tree/main/Wellington_Weicamp_Porto)
 
