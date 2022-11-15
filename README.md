@@ -12,7 +12,7 @@ Este repositório registra os códigos desenvolvidos pela turma de **Sistemas Em
 
 * [Wellington Weikamp Porto](https://github.com/adenauery/Micropython/tree/main/Wellington_Weicamp_Porto)
 
-### Alguns dos materiais utilizados na concepção dos códigos: ###
+### Alguns dos Materiais Utilizados na Concepção dos Códigos: ###
   
   * [Sistema Embarcado com ESP32 e MicroPython - Prof. Marcos Carnevali](https://www.youtube.com/playlist?list=PLCcdteC1rwSFvJnUoe0DfORHv4p_1EFps)
   * [Secrets of MicroPython: MQTT on ESP32](https://bhave.sh/micropython-mqtt/)
