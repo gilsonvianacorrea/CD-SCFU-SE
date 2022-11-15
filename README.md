@@ -1,4 +1,4 @@
-## Micropython & ESP 32
+## Sistemas Embarcados & Sistemas Ciber Físicos e Ubíquos ##
 
 Este repositório registra os códigos desenvolvidos pela turma de **Sistemas Embarcados (SE) e Sistemas Ciber Físicos e Ubíquos (SCFU)** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
 
