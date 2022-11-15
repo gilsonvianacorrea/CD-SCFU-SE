@@ -6,7 +6,12 @@ As soluções são desenvolvidas em **Micropython** sobre a plataforma de hardwa
 
 ### Softwares Desenvolvidos Pela Turma: ###
 
+* [Gilson Viana Corrêa](https://github.com/adenauery/CD-SCFU-SE/tree/main/Gilson_Viana_Correa)
+* [Graciela Barbosa Viana](https://github.com/adenauery/CD-SCFU-SE/tree/main/Graciela_Barbosa_Viana)
+* [Karen Rediess Müller Sória](https://github.com/adenauery/CD-SCFU-SE/tree/main/Karen_Rediess_Muller_Soria)
+* [Tiago Azevedo Appolinario da Silva](https://github.com/adenauery/CD-SCFU-SE/tree/main/Tiago_Azevedo_Appolinario_da_Silva)
 * [Wellington Weikamp Porto](https://github.com/adenauery/Micropython/tree/main/Wellington_Weicamp_Porto)
+
 
 ### Softwares Exemplo ###
 
