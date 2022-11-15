@@ -1,6 +1,6 @@
-## Sistemas Embarcados & Sistemas Ciber Físicos e Ubíquos ##
+## Ciência de Dados na IoT, Sistemas Embarcados e Sistemas Ciber Físicos e Ubíquos ##
 
-Este repositório registra os códigos desenvolvidos pela turma de **Sistemas Embarcados (SE) e Sistemas Ciber Físicos e Ubíquos (SCFU)** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
+Este repositório registra os códigos desenvolvidos pela turma de mestrandos que está cursando as disciplinas de **Ciência de Dados na Internet das Coisas, Sistemas Embarcados e Sistemas Ciber Físicos e Ubíquos** do [MEEC](https://pos.ucpel.edu.br/ppgeec/) da UCPel.
 
 As soluções são desenvolvidas em **Micropython** sobre a plataforma de hardware **ESP332**
 
